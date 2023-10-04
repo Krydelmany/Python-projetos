@@ -36,7 +36,6 @@ def cancelar_desligamento():
 # Crie a janela principal
 janela = tk.Tk()
 janela.title("Turn off")
-#janela.iconbitmap("C:\\Users\\giovani\\Downloads\\turn-off-icon-png-14576-Windows.ico")
 
 #deixa a janela com o fundo preto
 janela.configure(bg='#464646')
